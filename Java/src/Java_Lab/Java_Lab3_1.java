@@ -1,7 +1,11 @@
 package Java_Lab;
+
 import java.util.Arrays;
+
 public class Java_Lab3_1 {
-    public void main(String[]args) {
+
+    public static void main(String[]args) {
+
         int[] intArr = {1, 5, 3, 7, 6, 4};
 
         int countOdd = 0;
